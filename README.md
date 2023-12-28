@@ -1,10 +1,10 @@
-# Line Following Robot with PID Control
+# Line Follower Robot with PID Control
 
 This repository contains the Arduino code and documentation for a line-following robot with PID control. The robot uses infrared (IR) sensors to follow a black line on a white surface.
 
 ## Overview
 
-The project involves an Arduino-based line-following robot with two infrared sensors and an L298N motor driver. The code implements a PID controller to provide more precise control over the robot's movements.
+The project involves an Arduino-based line-follower robot with two infrared sensors and an L298N motor driver. The code implements a PID controller to provide more precise control over the robot's movements.
 
 ## Features
 
